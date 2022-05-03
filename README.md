@@ -4,7 +4,7 @@
 **How can a wellness technology play it smart?**
 
 
-##About BellaBeat
+##About BellaBeat##
 *BellaBeat is a high-tech company that manufactures health-focused smart products. Founded in 2013 by artist Urska Srsen and mathematician Sando Mur, the company has many products carefully designed to monitor activiy, stress, sleep, and reproductive data to help women better understand how their bodies work and make healthier choices. While small in size, BellaBeat has quickly positioned itself as a tech-driven wellness company for women. Chief Creative Officer, Urska Srsen, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company.*
 
 **BUSINESS TASK:**
